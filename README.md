@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Modnakcarlos&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Carlos Alexandre github stats" /> </div>
 
 
-### Studyng:
+### Studying:
 [![My Skills](https://skills.thijs.gg/icons?i=java)](https://skills.thijs.gg)
 
   ### Next studies:
