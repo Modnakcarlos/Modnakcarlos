@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 
 ### Studying:
-[![My Skills](https://skills.thijs.gg/icons?i=java)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,html,css,js)](https://skills.thijs.gg)
 
   ### Next studies:
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,nodejs)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs)](https://skills.thijs.gg)
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
